@@ -43,11 +43,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeeLeDev&theme=dracula&layout=compact" />
   </a>
 </p>
-
-<h2 align=center>Contacts</h2>
-
-<p align=center> 
-  <a href='https://www.linkedin.com/in/bledev/'>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
