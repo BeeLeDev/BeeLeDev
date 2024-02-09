@@ -23,7 +23,7 @@
 <h2 align=center>Current Projects</h2>
 
 <p align=center> 
-  <a href='https://github.com/BeeLeDev/j--'>j--</a> </br>
+  <a>j--</a> </br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
