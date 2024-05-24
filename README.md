@@ -3,7 +3,7 @@
 </h2>
 
 <p align=center>
-  My name is Brandon, I am a student at the University of Massachussetts Boston.<br />
+  My name is Brandon, I fall into rabbit holes when it comes to learning new things.<br />
 </p>
 
 <p align=center>
