@@ -3,7 +3,7 @@
 </h2>
 
 <p align=center>
-  My name is Brandon, I fall into rabbit holes when it comes to learning new things.<br />
+  Hello I'm Brandon Le, I fall into rabbit holes when I'm invested in something.<br />
 </p>
 
 <p align=center>
