@@ -1,9 +1,9 @@
 <h2 align=center>
-  About me
+  About Me
 </h2>
 
 <p align=center>
-  Hello I'm Brandon Le, I fall into rabbit holes when I'm invested in something.<br />
+  Hello I'm Brandon Le.<br />
 </p>
 
 <p align=center>
@@ -19,17 +19,13 @@
   📱iOS Jailbreaking <br />
 </p>
 
-
 <h2 align=center>Current Projects</h2>
 
 <p align=center> 
-  <a>j--</a> </br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
-<p align=center>
-  <a>Project Flashback</a> </br>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <a href="https://beeledev.github.io/Website/">Personal Website</a> </br>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"\>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"\>
 </p>
 
 <h2 align=center>GitHub Statistics</h2>
