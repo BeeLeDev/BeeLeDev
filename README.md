@@ -28,14 +28,20 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"\>
 </p>
 
-<h2 align=center>GitHub Statistics</h2>
+<h2 align=center>My Statistics</h2>
 
 <p align=center> 
-  <a href='https://github.com/anuraghazra/github-readme-stats'>
-    <img src="https://github-readme-stats.vercel.app/api?username=BeeLeDev&theme=dracula" />
+  <a href='https://leetcode.com/u/BLeDev/'>
+      <img src="https://leetcard.jacoblin.cool/BLeDev?theme=catppuccinMocha&font=Noto%20Sans%20Buginese" />
   </a>
-  </br>
+  <br>
   <a href='https://github.com/anuraghazra/github-readme-stats'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeeLeDev&theme=dracula&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=BeeLeDev&theme=catppuccin_mocha" />
   </a>
+  <br>
+  <a href='https://github.com/anuraghazra/github-readme-stats'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeeLeDev&theme=catppuccin_mocha&layout=compact" />
+  </a>
+  <br>
+
 </p>
